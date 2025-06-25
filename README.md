@@ -46,7 +46,18 @@
   <br/>
   
   ## Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okji98)](https://github.com/anuraghazra/github-readme-stats)
+  <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okji98)](https://github.com/anuraghazra/github-readme-stats)-->
+
+  ## Tech Stack
+  ### 🎯 Main Focus
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  
+  ### 📊 Development Stats
+  ![](https://github-readme-stats.vercel.app/api?username=okji98&show_icons=true&theme=radical&hide_title=true)
+  
+  **💡 Currently Building:** Spring Boot REST API | JWT Authentication | JPA Database Design
 
   <br/><br/>
 
