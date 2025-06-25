@@ -49,15 +49,15 @@
   <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okji98)](https://github.com/anuraghazra/github-readme-stats)-->
 
   ## Tech Stack
-  ### 🎯 Main Focus
+  ### Main Focus
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   
-  ### 📊 Development Stats
+  ### Development Stats
   ![](https://github-readme-stats.vercel.app/api?username=okji98&show_icons=true&theme=radical&hide_title=true)
   
-  **💡 Currently Building:** Spring Boot REST API | JWT Authentication | JPA Database Design
+  **Currently Building:** Spring Boot REST API | JWT Authentication | JPA Database Design
 
   <br/><br/>
 
