@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4B0082&height=230&section=header&text=현돌이%20%7C%20Back-End%20Developer%20in%20Progress&fontColor=ffffff&fontSize=30&desc=기술과+사람+사이를+잇는+개발자가+되고+싶습니다.&descSize=18&descAlign=50&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4B0082&height=230&section=header&text=Back-End%20Developer%20in%20Progress&fontColor=ffffff&fontSize=30&desc=기술과+사람+사이를+잇는+개발자가+되고+싶습니다.&descSize=18&descAlign=50&descAlignY=70)
 
 
 <div>
